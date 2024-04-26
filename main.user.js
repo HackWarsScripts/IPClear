@@ -10,8 +10,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_addStyle
-// @downloadURL https://github.com/HackWarsScripts/IPClear/raw/main/main.user.js
-// @updateURL https://github.com/HackWarsScripts/IPClear/raw/main/main.user.js
+// @downloadURL https://github.com/TheDotLab/IPClear/raw/main/main.user.js
+// @updateURL https://github.com/TheDotLab/IPClear/raw/main/main.user.js
 // ==/UserScript==
 if (window.self !== window.top) return;
 
